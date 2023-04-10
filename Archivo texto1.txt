@@ -1,0 +1,4 @@
+Este es el archivo de texto 1
+    --bulit 1
+    --bulit 2
+    --bulit 3
